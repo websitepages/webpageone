@@ -1,0 +1,9 @@
+# Export files
+public/*
+public
+
+#OS
+Thumbs.db
+
+#Hugo related
+.hugo_build.lock
